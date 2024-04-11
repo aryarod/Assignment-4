@@ -33,3 +33,28 @@ body {
     from, to { border-color: transparent }
     50% { border-color: orange }
   }
+
+  h3 {
+    font-family: 'monospace';
+    font-size: 15px;
+    color: white;
+    text-align: center;
+  }
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+.footer {
+    text-align: center;
+    position: fixed;
+    margin-top: 500px;
+    margin-bottom: 0px;
+    margin-right: 50px;
+}
